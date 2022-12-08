@@ -1,4 +1,4 @@
-# Student-Registration-System-Using-JSP
+# Student-Registration-System-Using-MYSQL-Database-And-JSP
 
 ### save files @ xampp -> tomcat -> webapps -> root
 
